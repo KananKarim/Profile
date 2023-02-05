@@ -1,0 +1,17 @@
+.form-group label input{
+    width: 500px;
+    height: 40px;
+   
+    
+  }
+  .form-group label textarea{
+    width: 500px;
+    height: 80px;
+   
+  }
+  
+  form button{
+    width: 500px;
+    height: 40px;
+   
+  }
